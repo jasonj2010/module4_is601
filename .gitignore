@@ -1,0 +1,12 @@
+# venv
+venv/
+# bytecode / caches
+__pycache__/
+*.py[cod]
+# coverage & reports
+.coverage
+*.coverage
+htmlcov/
+# OS/editor files
+.DS_Store
+*.swp
